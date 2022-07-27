@@ -1,0 +1,7 @@
+input:out-of-range{
+    background-color: brown;
+    border: 2px solid rebeccapurple;
+}
+input:in-range{
+    background-color: aqua;
+}
